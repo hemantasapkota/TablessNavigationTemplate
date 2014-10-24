@@ -6,7 +6,7 @@ So I noticed that apps like Gmail and Facebook do not use standard IOS tabs for 
 
 This tutorial is my take on how to accomplish that.
 
-Blog post at: http://hsapkota.com.au/index.php/blog/ios-iphone-ipad/28-tutorial-creating-gmail-facebook-like-menu-navigation-in-ios
+Blog post at: http://hemantasapkota.github.io/posts/tutorial-creating-gmail-facebook-like-menu-navigation-in-ios/
 
 Platform
 =========================
